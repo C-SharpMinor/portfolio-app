@@ -1,0 +1,23 @@
+#about{
+    padding: 20px;
+    background-color: rgb(51, 51, 51);
+    color: white;
+    position: relative;
+}
+#about::after{
+    content:'';    
+    position: absolute;
+    background-color:white;
+    height: 3px;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    bottom: 0;
+}
+h2{
+    text-align: center;
+}
+p{
+    display: flex;
+    flex-wrap: wrap;
+}
