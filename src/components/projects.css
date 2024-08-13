@@ -1,19 +1,9 @@
 #projects{
-    background-color: rgb(51, 51, 51);
     color: white;
     padding: 20px;
     position: relative;
 }
-#projects::after{
-    position: absolute;
-    content:'';
-    bottom: 0;
-    left: 10%;
-    right: 10%;
-    height: 3px;
-    width: 80%;
-    background-color: white;
-}
+
 h2{
     text-align: center;
 }

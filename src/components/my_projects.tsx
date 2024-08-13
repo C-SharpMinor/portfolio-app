@@ -45,6 +45,7 @@ function Projects() {
           </div>
         </div>
       </section>
+      <div className="underline"></div>
     </>
   );
 }
