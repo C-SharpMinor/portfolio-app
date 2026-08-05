@@ -8,16 +8,7 @@ const About: React.FC = () => {
         <div className="text">
           <h2>About me</h2>
           <p>
-            Hello! I'm Oreoluwa, I am a web developer seeking to improve his
-            skills with every oppurtunity. A highly motivated student of
-            Covenant University pursuing a Bachelor's Degree in Information and
-            Communication Engineering and currently on a first class. I have an
-            intermediate foundation in the application of programming languages
-            JavaScript and Python with a basic knowledge in the use of the MERN
-            stack. And a proven ability to analyze complex data and manage
-            projects through the course work, academic and extracurricular
-            projects. I work well with teams as well, ensuring to contribute my
-            best.
+            Hello! I'm Oreoluwa, a recent first-class graduate of Information and Communication Engineering with a strong foundation in JavaScript, Python, and the MERN stack (MongoDB, Express.js, React, Node.js). Experienced in network troubleshooting, full-stack application development, and hardware-software integration through practical coursework and industry internships. I am driven by continuous learning and eager to apply engineering and software development skills in a full-time role.
           </p>
         </div>
         <div className="me">
